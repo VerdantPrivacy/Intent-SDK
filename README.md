@@ -320,8 +320,7 @@ MIT License — see [LICENSE](../LICENSE) for details.
 
 ## Links
 
-- [Verdant Privacy Website](https://verdant.privacy)
-- [Documentation](https://docs.verdant.privacy)
-- [API Reference](https://docs.verdant.privacy/api)
-- [Discord](https://discord.gg/verdant)
+- [Verdant Privacy Website](https://verdant-privacy)
+- [Documentation](https://docs.verdant-privacy)
+- [API Reference](https://docs.verdant-privacy/api)
 - [Twitter](https://twitter.com/VerdantPrivacy)
