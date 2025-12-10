@@ -1,0 +1,26 @@
+{
+  "name": "@verdant-protocol/sdk",
+  "version": "0.1.0-beta",
+  "description": "The official SDK for the Verdant Privacy Protocol on Solana",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.90.0",
+    "bip39": "^3.1.0",
+    "bs58": "^5.0.0",
+    "ed25519-hd-key": "^1.3.0",
+    "tweetnacl": "^1.0.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/uuid": "^9.0.0",
+    "typescript": "^5.0.0"
+  },
+  "author": "Verdant Privacy Labs",
+  "license": "MIT"
+}
